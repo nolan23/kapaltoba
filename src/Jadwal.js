@@ -1,5 +1,6 @@
 import React, {Component, Fragment} from 'react';
 import { withStyles } from '@material-ui/core';
+import PrimarySearchAppBar from './PrimarySearchAppBar';
 
 class JadwalContainer extends Component{
     constructor(){
@@ -10,6 +11,7 @@ class JadwalContainer extends Component{
     render(){
         return(
             <Fragment>
+                <PrimarySearchAppBar/>
                 
             </Fragment>
         );
