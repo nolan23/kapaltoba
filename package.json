@@ -5,7 +5,20 @@
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+"@date-io/core": "^1.1.0",
+    "@date-io/date-fns": "^1.1.0",
+    "@material-ui/core": "^3.9.2",
+    "@material-ui/icons": "^3.0.2",
+    "date-fns": "^2.0.0-alpha.27",
+    "material-ui-pickers": "^2.2.4",
+    "rc-input-number": "^4.4.0",
+    "react-number-picker": "^1.0.5",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.8",
+    "react-select": "^2.4.2",
+    "react-swipeable-views": "^0.13.1"
   },
   "scripts": {
     "start": "react-scripts start",
