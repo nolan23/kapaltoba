@@ -167,7 +167,7 @@ class PrimarySearchAppBar extends React.Component {
         <AppBar position="static">
           <Toolbar>
             <Typography className={classes.title} variant="h6" color="inherit" noWrap>
-              KapalToba
+              Kapal Toba
             </Typography>
             
             <div className={classes.grow} />
